@@ -8,22 +8,22 @@ const skillInfo = [
     {
         key: 1,
         title: "Languages",
-        skill: ["C", "C++", "Java", "Python", "JavaScript", "MATLAB", "Assembly"]
+        skill: ["C", "Java", "Python", "JavaScript"]
     },
     {
         key: 2,
         title: "Developer Tools",
-        skill: ["HTML", "CSS", "Bootstrap", "ReactJS", "TailwindCSS", "NextJS", "NodeJS", "ExpressJS", "ThreeJS"]
+        skill: ["HTML", "CSS", "Bootstrap", "ReactJS", "TailwindCSS", "NextJS", "NodeJS", "ExpressJS",]
     },
     {
         key: 3,
         title: "Cloud/Databases:",
-        skill: ["FireBase", "MySQL"]
+        skill: ["FireBase", "MongoDB"]
     },
     {
         key: 4,
         title: "Soft Skills",
-        skill: ["Leadership", "Interpersonal Skills"]
+        skill: ["Leadership", "Interpersonal Skills, Teamwork", "Problem Solving", "Communication"]
     },
     {
         key: 5,
@@ -33,7 +33,7 @@ const skillInfo = [
     {
         key: 6,
         title: "Tools",
-        skill: ["VS Code", "GitHub", "GIT", "Figma", "MATLAB", "Photoshop"]
+        skill: ["VS Code", "GitHub", "GIT", "Figma", "Photoshop"]
     },
     {
         key: 7,

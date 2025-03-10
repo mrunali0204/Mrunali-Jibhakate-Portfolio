@@ -34,13 +34,13 @@ function Contact() {
           <div className="flex flex-row mb-3">
             <div className="flex flex-col">
               <div className="text-white font-medium">MAIL ME</div>
-              <div className="text-white">maithilee948@gmail.com</div>
+              <div className="text-white">mrunalijibhakate04@gmail.com</div>
             </div>
           </div>
           <div className="flex flex-row">
             <div className="flex flex-col">
               <div className="text-white font-medium">CALL ME</div>
-              <div className="text-white">8805001960</div>
+              <div className="text-white">+91-7517957468</div>
             </div>
           </div>
         </div>
@@ -59,7 +59,7 @@ function Contact() {
         <div className="flex flex-row z-20 absolute mx-10 sm:mx-0 sm:left-16 top-24 md:left-20 lg:left-32 xl:left-40 sm:top-10 space-x-3 lg:space-x-6">
           <div className="bg-[#4933C2]  w-12 h-12 lg:w-14 lg:h-14 xl:w-16 xl:h-16 rounded-xl">
             <a
-              href="https://www.linkedin.com/in/maithilee-pardhi-2a6947256"
+              href="https://www.linkedin.com/in/mrunali-jibhakate-61879528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -72,7 +72,7 @@ function Contact() {
           </div>
           <div className="bg-[#4933C2] w-12 h-12 lg:w-14 lg:h-14 xl:w-16 xl:h-16 rounded-xl">
             <a
-              href="https://github.com/maithilee24"
+              href="https://github.com/mrunali0204"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -85,7 +85,7 @@ function Contact() {
           </div>
           <div className="bg-[#4933C2] w-12 h-12 lg:w-14 lg:h-14 xl:w-16 xl:h-16 rounded-xl">
             <a
-              href="https://discord.com/channels/maithilee_pardhi"
+              href="https://discord.com/channels/mrunali_0204"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -98,7 +98,7 @@ function Contact() {
           </div>
           <div className="bg-[#4933C2] w-12 h-12 lg:w-14 lg:h-14 xl:w-16 xl:h-16 rounded-xl">
             <a
-              href="https://www.instagram.com/maithilee_pardhi?igsh=Z3NndnhtM3hqMHU5"
+              href="https://www.instagram.com/mrunali.jibhakate?igsh=YzEwZXVtOXpoZ3hp"
               target="_blank"
               rel="noopener noreferrer"
             >

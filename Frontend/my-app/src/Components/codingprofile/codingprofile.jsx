@@ -9,29 +9,18 @@ import Leetcode from "../images/Leetcode.png";
 import GfG from "../images/GfG.png";
 
 const codingpInfo = [
+    
     {
         key:1,
-        link:"https://codeforces.com/profile/Maithilee_Pardhi",
-        imageurl:Codeforces,
-        detail:"Achieved a 1125 Rating on Codeforces: Newbie Level"
+        link:"https://leetcode.com/u/MrunaliJibhakate/",
+        imageurl:Leetcode,
+        detail:""
     },
     {
         key:2,
-        link:"https://www.codechef.com/users/yaadvi_04",
-        imageurl:CodeChef,
-        detail:"CodeChef 2-Star Coder with a Rating of 1596"
-    },
-    {
-        key:3,
-        link:"https://leetcode.com/u/Maithilee_24/",
-        imageurl:Leetcode,
-        detail:"Achieved a 1682 Rating on LeetCode"
-    },
-    {
-        key:4,
-        link:"https://www.geeksforgeeks.org/user/pardhiaqwd9/",
+        link:"https://www.geeksforgeeks.org/user/mrunalijibm4f5/",
         imageurl:GfG,
-        detail:"Solved 131 questions on GeeksforGeeks"
+        detail:""
     },
 ]
 

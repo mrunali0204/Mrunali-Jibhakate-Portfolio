@@ -45,9 +45,9 @@ const Aboutme = () => {
                 >
                     <div className="text-white text-[0.9rem] sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-medium mb-3 sm:mb-4 xl:mb-6 px-0 sm:mx-0">ABOUT ME</div>
                     <div className="text-white text-[0.8rem] sm:text-[0.75rem] md:text-sm lg:text-base xl:text-xl font-light mb-3 sm:mb-4 xl:mb-6">
-                        I'm Maithilee Pardhi, currently a third-year student at National Institute of Technology Patna, majoring in Electronics and Communication Engineering. My passion lies in design, web development, and problem-solving through competitive programming. I thrive on the creativity and technical challenges that these fields present, constantly seeking opportunities to learn and grow. Whether it's crafting intuitive user interfaces, developing dynamic web applications, or tackling complex coding problems, I am always eager to take on new challenges and push my boundaries.
+                        I'm Mrunali Jibhakate, currently a second-year student at Yashwantrao Chavan College of Engineering, majoring in Electronics Engineering. My passion lies in Web development and problem-solving through competitive programming. I thrive on the creativity and technical challenges that these fields present, constantly seeking opportunities to learn and grow. Whether it's crafting intuitive user interfaces, developing dynamic web applications, or tackling complex coding problems, I am always eager to take on new challenges and push my boundaries.
                     </div>
-                    <a href="https://drive.google.com/drive/folders/1SQMC2Ph8AJDQLpg9kUhVE3aHWXwKESwD?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1BPZtu0McGs5ffGeBek9NhVta7luhbA9n/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
                         <motion.div
                             className="bg-gradient-to-r from-[#559BD8] to-[#4933C2] rounded-lg text-[0.7rem] md:text-base sm:mx-0 p-3 md:p-4 h-4 w-20 sm:h-2 sm:w-20 md:h-8 md:w-24 lg:h-10 lg:w-28 xl:h-14 xl:w-32 flex justify-center items-center text-white font-normal lg:font-medium"
                             whileHover={{ scale: 1.05 }}

@@ -6,24 +6,24 @@ import V2 from "../assets/V2.png";
 const eduInfo = [
     {
         key:1,
-        year:2026,
-        title:"National Institute of technology , Patna",
-        specification:"B.Tech in Electronics and Communication Engineering",
-        grade:"9.28/10 CGPA"
+        year:2027,
+        title:"Yashwantrao Chavan College of Engineering,Nagpur",
+        specification:"B.Tech in Electronics Engineering",
+        grade:"8.50/10 CGPA"
     },
     {
         key:2,
         year:2022,
-        title:"Krishnamurari Katakwar High School and Jr. College,Sakoli",
+        title:"Dr. Babasaheb Ambedkar College of Arts, Commerce & Science, Brahmapuri",
         specification:"Board of Intermediate Education, Maharashtra",
-        grade:"Percentage : 86"
+        grade:"Percentage : 80"
     },
     {
         key:3,
         year:2020,
-        title:"Maharishi Vidya Mandir,Bhandara",
+        title:"Christanand School & Jr.College, Brahmapuri",
         specification:"Board of Secondary Education",
-        grade:"Percentage : 92"
+        grade:"Percentage : 93.40"
     }
 ];
 

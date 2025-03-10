@@ -2,12 +2,12 @@ import React from "react";
 import Star from "../assets/Star.png";
 import V2 from "../assets/V2.png";
 import ProjectList from "./projectlist";
-import Portfolio from "../images/Portfolio.png";
-import Work from "../images/Work.png";
-import Meme from "./Meme.png";
-import Drums from "./Drums.png";
-import Simon from "./Simon.png";
-import Ocean from "./ocean-route.png";
+import Portfolio from "../images/Portfolio.jpg";
+import Work from "../images/language.png";
+import Meme from "./doc.png";
+import Drums from "./hemoglobin.png";
+import Simon from "./agrichain.png";
+import Ocean from "./opencv.png";
 import { motion } from "framer-motion";
 
 const proInfo = [
@@ -16,42 +16,42 @@ const proInfo = [
         title: "Portfolio",
         image: Portfolio,
         discription: "This is the portfolio website built with React.js and styled using Tailwind CSS, it reflects my proficiency in creating sleek, responsive, and user-friendly web applications. The website serves as a comprehensive showcase of my skills, projects, and experiences.",
-        link: "https://github.com/maithilee24/Portfolio_Website",
+        link: "https://github.com/mrunali0204/Mrunali-Jibhakate-Portfolio",
     },
     {
         no: 2,
-        title: "DesCo Club Website",
+        title: "Language Translation App",
         image: Work,
-        discription: "As a frontend developer for the Desco Club's official website, I contributed to showcasing the works and skills of our design-focused members. I developed the 'Get in Touch' section and the 'Works' page using React.js and Tailwind CSS, with Firebase for dynamic content management. This project allowed me to collaborate effectively with my team and enhance my skills in creating responsive, modern web applications.",
-        link: "https://github.com/maithilee24/club-website",
+        discription: "As a developer, I developed the 'app for translation of languages'.",
+        link: "https://github.com/mrunali0204/translation_app",
     },
     {
         no: 3,
-        title: "Meme-Response",
+        title: "Medi-Link",
         image: Meme,
-        discription: "This project is a fun and creative take on HTTP protocols, where each status code is humorously represented with a corresponding meme! This project delivers a lighthearted way to learn or laugh about HTTP responses. Built using Next.js for seamless performance and Tailwind CSS for clean and responsive styling, Meme-Response combines technology with humor to make the web a more enjoyable place. Perfect for developers and meme enthusiasts alike!",
-        link: "https://github.com/maithilee24/meme_response",
+        discription: "This project is a fun and its like LINKEDIN FOR DOCTORS, its for connecting of doctors in one app only dedicated for doctors!",
+        link: "https://github.com/mrunali0204/Frontend-MediLink",
     },
     {
         no: 4,
-        title: "Ocean-Route",
+        title: "Open-CV",
         image: Ocean,
-        discription: "Ocean-Route is an innovative web application that calculates and displays the optimal path between two ports, factoring in variables such as cost, weather conditions, and route safety. This project leverages the power of machine learning to determine the most efficient route and visualizes it using MapTiler for an interactive map-based experience.As a collaborative effort, my contribution focused on the frontend development, where I utilized Next.js and Tailwind CSS to create a seamless user interface for inputting port requests and displaying the model's response. The optimized route is dynamically rendered on the map, providing users with a clear and intuitive way to understand the suggested path.",
-        link: "https://github.com/maithilee24/ocean-route-proto",
+        discription: "I have done lot of projects on Open-CV, like Face Detection, Object Detection, Image Processing, etc.",
+        link: "https://github.com/mrunali0204/Opencv",
     },
     {
         no: 5,
-        title: "Drum kit",
+        title: "Hemoglobin Detection website",
         image: Drums,
-        discription: "Drum Kit is a fun and interactive project that lets users create rhythmic sounds using their keyboard. Each of the five drums is assigned a unique sound and a corresponding alphabet key, enabling users to compose their own beats and enjoy a playful drumming experience.Built with HTML,JavaScript and CSS,this project focuses on simplicity and creativity, making it easy for anyone to explore their musical side. ",
-        link: "https://github.com/maithilee24/Drums",
+        discription: "We have developed a kit (Heamoglobin detecting kit) which detects heamoglobin & website for Hemoglobin Detection using Machine Learning. We have used the Random Forest Classifier algorithm to predict the Hemoglobin level of the patient.",
+        link: "https://github.com/mrunali0204/Project_01_ML",
     },
     {
         no: 6,
-        title: "Simon Game",
+        title: "AgriChain",
         image: Simon,
-        discription: "Simon Game is a memory-based interactive game that challenges players to replicate a sequence generated by the server. Starting with the letter A,players must press the buttons in the correct order as displayed by the game. With each correct input, the sequence grows longer, increasing the difficulty and testing the player's memory and reflexes.Built using HTML, CSS, and JavaScript, Simon Game delivers an engaging and entertaining experience.",
-        link: "https://github.com/maithilee24/Simon_Game",
+        discription: "Build a tool that tracks the journey of agricultural products from farm to table, ensuring transparency, reducing waste, and increasing consumer trust in food sources.",
+        link: "https://github.com/mrunali0204/temp_sih",
     },
     
 ];
