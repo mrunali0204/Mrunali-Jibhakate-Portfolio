@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6df0dc3.css",
+    "main.js": "/static/js/main.a776af83.js",
+    "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
+    "static/media/Grid2.png": "/static/media/Grid2.f90e376b04581aae04d0.png",
+    "static/media/Grid1.png": "/static/media/Grid1.abff8c48a61702492176.png",
+    "static/media/Post3.png": "/static/media/Post3.1b6fedae23bf7c880ae4.png",
+    "static/media/Post1.png": "/static/media/Post1.3eaa5c212a8fe7575cfb.png",
+    "static/media/Post2.png": "/static/media/Post2.2fc1a0c43e7b3cff13b5.png",
+    "static/media/V1.png": "/static/media/V1.d4b1fe39954b4aeac20c.png",
+    "static/media/hemoglobin.png": "/static/media/hemoglobin.b8db2b014f93a3b8aaac.png",
+    "static/media/Profile.jpg": "/static/media/Profile.8c98d0e7ffe00c95e123.jpg",
+    "static/media/Post4.jpg": "/static/media/Post4.cedc54e717f3d1415930.jpg",
+    "static/media/Portfolio.jpg": "/static/media/Portfolio.f3457f84b18630993fbd.jpg",
+    "static/media/V2.png": "/static/media/V2.84d9a2d108a85493a478.png",
+    "static/media/Leetcode.png": "/static/media/Leetcode.3f413b2e300c58ffae8f.png",
+    "static/media/GfG.png": "/static/media/GfG.64fe3c5bf37295822015.png",
+    "static/media/doc.png": "/static/media/doc.7cfabc0eb46110666de0.png",
+    "static/media/Codeforces.png": "/static/media/Codeforces.e9a65310c20bd3afa413.png",
+    "static/media/opencv.png": "/static/media/opencv.730df0474b20e09bd75b.png",
+    "static/media/Logo.webp": "/static/media/Logo.5c2f2cb7520f032e7c08.webp",
+    "static/media/V2.webp": "/static/media/V2.bcdde1e9bad2c3260306.webp",
+    "index.html": "/index.html",
+    "main.b6df0dc3.css.map": "/static/css/main.b6df0dc3.css.map",
+    "main.a776af83.js.map": "/static/js/main.a776af83.js.map",
+    "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6df0dc3.css",
+    "static/js/main.a776af83.js"
+  ]
+}
